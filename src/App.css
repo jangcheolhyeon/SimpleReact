@@ -1,0 +1,12 @@
+body{
+  background-color:powderblue;
+}
+
+#CreateUpdate_mode{
+  margin-left:10px;
+}
+
+#textareaStyle{
+  box-sizing:border-box;
+  width:177px;
+}
